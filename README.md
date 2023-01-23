@@ -5,8 +5,8 @@
 </div>
 <br>
 
-- **🔭 I'm currently working on** Creating the ultimate [`Storybook`](https://storybook.js.org/) Addon.
-- **💻 I work with many technologies** - More experience in [`Angular`](https://angular.io) tho.
+- **🔭 I'm currently working on** Creating the ultimate [![`Storybook`](https://freeicons.vercel.app/icons/storybook?size=20)](https://storybook.js.org/) Addon.
+- **💻 I work with many technologies** - More experience in [![`Angular`](https://freeicons.vercel.app/icons/angular?size=20)](https://angular.io) tho.
 - **🌱 I'm currently learning** - Nothing in particular, but I like new ideas, give me some.
 - **👯 I'm looking to collaborate on** - Giving back to the open source community.
 - **📫 How to reach me** - Find me on [`Twitter`](https://twitter.com/mooseSheriff)
