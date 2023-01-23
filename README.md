@@ -68,9 +68,9 @@
 
 <div>
 
-![][banner.stats1]
-![][banner.stats2]
-![][banner.stats3]
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sheriffmoose&show_icons=true&locale=en&layout=compact" width="33%" />
+<img src="https://github-readme-stats.vercel.app/api?username=sheriffmoose&show_icons=true&locale=en" width="33%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sheriffmoose" width="33%" />
 
 </div>
 
@@ -82,7 +82,3 @@
 [link.twitter]: https://twitter.com/mooseSheriff
 [link.medium]: https://www.medium.com/@sheriffMoose
 [link.linkedin]: https://www.linkedin.com/mosherif87
-
-[banner.stats1]: https://github-readme-stats.vercel.app/api/top-langs?username=sheriffmoose&show_icons=true&locale=en&layout=compact
-[banner.stats2]: https://github-readme-stats.vercel.app/api?username=sheriffmoose&show_icons=true&locale=en
-[banner.stats3]: https://github-readme-streak-stats.herokuapp.com/?user=sheriffmoose
