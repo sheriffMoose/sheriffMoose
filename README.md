@@ -8,8 +8,8 @@
 
 
 
-- **🔭 I'm currently working on** Creating the ultimate <img src="https://cdn.simpleicons.org/storybook/FF4785" style="width:20px;" /> Addon.
-- **💻 I work with many technologies** - More experience in <img src="https://cdn.simpleicons.org/angular/DD0031" style="width:20px;" /> tho.
+- **🔭 I'm currently working on** Creating the ultimate ![](https://freeicons.vercel.app/icons/storybook) Addon.
+- **💻 I work with many technologies** - More experience in ![](https://freeicons.vercel.app/icons/angular) tho.
 - **🌱 I'm currently learning** - Nothing in particular, but I like new ideas, give me some.
 - **👯 I'm looking to collaborate on** - Giving back to the open source community.
 - **📫 How to reach me** - Find me on [`Twitter`](https://twitter.com/mooseSheriff)
