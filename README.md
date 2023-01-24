@@ -49,7 +49,7 @@
 ![](https://freeicons.vercel.app/icons/android?size=50&bg=none)
 ![](https://freeicons.vercel.app/icons/ionic?size=50&bg=none)
 ![](https://freeicons.vercel.app/icons/materialdesign?size=50&bg=none)
-![](https://freeicons.vercel.app/icons/apachecordova?size=50&bg=black&bg=none)
+![](https://freeicons.vercel.app/icons/apachecordova?size=50&bg=black&type=rounded)
 ![](https://freeicons.vercel.app/icons/mongodb?size=50&bg=none)
 ![](https://freeicons.vercel.app/icons/sqlite?size=50&bg=none)
 ![](https://freeicons.vercel.app/icons/mysql?size=50&bg=none)
