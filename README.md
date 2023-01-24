@@ -68,9 +68,8 @@
 
 <div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sheriffmoose&show_icons=true&locale=en&layout=compact" width="33%" style="max-height:150px" />
-<img src="https://github-readme-stats.vercel.app/api?username=sheriffmoose&show_icons=true&locale=en" width="33%"  style="max-height:200px" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sheriffmoose" width="33%"  style="max-height:200px" />
+<img src="https://github-readme-stats.vercel.app/api?username=sheriffmoose&show_icons=true&locale=en" width="49.5%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sheriffmoose" width="49.5%"/>
 
 </div>
 
