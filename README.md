@@ -73,6 +73,12 @@
 
 </div>
 
+<div align="right">
+
+![](https://visitor-badge.laobi.icu/badge?page_id=sheriffMoose)
+
+</div>
+
 
 [link.twitter]: https://twitter.com/mooseSheriff
 [link.medium]: https://www.medium.com/@sheriffMoose
